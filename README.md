@@ -1,4 +1,5 @@
 RFID-Based College Classroom Attendance System
+
 This project is an automated, contactless classroom attendance system designed for academic institutions. Using RFID technology, Arduino UNO, ESP32, and Google Sheets, the system enables real-time, error-free attendance logging, eliminating manual roll calls and preventing proxy attendance.
 
 Key Features
